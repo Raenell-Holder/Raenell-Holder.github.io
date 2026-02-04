@@ -45,6 +45,8 @@
 }
 
 div {
+  width: 100px;
+  height: 100px;
   background-color: 38a3a5;
   animation-name: myAnimation;
   animation-duration: 3s;
