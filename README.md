@@ -1,4 +1,3 @@
-# Raenell-Holder.github.io
 <!DOCTYPE html>
 <html>
   <head>
@@ -20,7 +19,7 @@
   </ol>
   
   <h3>Taking a screenshot</h3>
-  <p>If you are working on a windows machine like I am, the simplest way to take a screenshot is to use the print screen build in button on the keyboard. To most this button would look like <kbd>prt sc</kbd>. So simply navigate to your keyboard, find this button, click on it and then <kbd>select</kbd> the portion of your screen you would like to capture and "screen capture" it! However, there are a few other ways to do this. <kbd>Click </kbd>on <a href= "https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b"> this link</a> to learn more! </p> 
+  <p>If you are working on a Windows machine like I am, the simplest way to take a screenshot is to use the print screen built-in button on the keyboard. To most, this button would look like <kbd>prt sc</kbd>. So simply navigate to your keyboard, find this button, click on it and then <kbd>select</kbd> the portion of your screen you would like to capture and "screen capture" it! However, there are a few other ways to do this. <kbd>Click </kbd>on <a href= "https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b"> this link</a> to learn more! </p> 
   
   <h3>Submitted an assignment on canvas</h3>
   <p>Example text</p>
