@@ -43,3 +43,14 @@
             transform-origin: 50% 0%;
   }
 }
+
+div {
+  background-color: 38a3a5;
+  animation-name: myAnimation;
+  animation-duration: 3s;
+}
+
+@keyframes myAnimation {
+  from {background-color: 80ed99;}
+  to {background-color: c7f9cc;}
+}
